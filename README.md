@@ -9,7 +9,7 @@ of your guesses.
 Madame Forêt's Game was built by 
     <a href="http://amydshelton.com">Amy Shelton</a> 
 in November 2014, as her independent project for 
-    <a href="http://www.hackbrightacademy.com/">Hackbright Academy</a>.  Amy is a software developer at Dropbox.
+    <a href="http://www.hackbrightacademy.com/">Hackbright Academy</a>.
 
 This readme is divided into three main sections: The User Experience, Behind 
 the Scenes, and About Amy. 
@@ -165,6 +165,5 @@ competitions.
 
 ##About Amy
 <a href="http://amydshelton.com">Amy</a> is a longtime numbers nerd who has a 
-newfound passion for backend programming and data engineering. After 
-Hackbright, she'll be looking for a job in San Francisco. 
-You should probably hire her.
+newfound passion for backend programming and data engineering.
+She is a software developer at Dropbox.
